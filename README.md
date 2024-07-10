@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BoheSama</h1>
 <h3 align="center">A cute girl interested in coding</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bohesama1999&label=Profile%20views&color=0e75b6&style=flat" alt="bohesama1999" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bohesama1999&label=Profile%20views&color=0e75b6&style=flat" alt="bohesama1999" /> </p>
 
 - 🌱 I’m currently learning **C & .Net & Python**
 
